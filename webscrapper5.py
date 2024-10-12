@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 
 
 # Initialize the Groq LLM (replace with your actual API key)
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "ADD YOUR API KEY"
 llm = 'groq/llama3-70b-8192'
 
 # Define folder paths
